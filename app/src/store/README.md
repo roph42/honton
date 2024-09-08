@@ -1,0 +1,1 @@
+# STORE folder contains all the Redux store files that are used in the app.

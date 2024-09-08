@@ -1,0 +1,1 @@
+# Assets folder contains all the images, videos, and other files that are used in the app.

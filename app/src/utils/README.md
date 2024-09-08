@@ -1,0 +1,1 @@
+# Utils folder contains all the utility functions that are used in the app.

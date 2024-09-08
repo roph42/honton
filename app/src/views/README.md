@@ -1,0 +1,1 @@
+# Views folder contains all the views that are used in the app.

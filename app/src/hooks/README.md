@@ -1,0 +1,1 @@
+# Hook folder contains all the custom hooks that are used in the app.

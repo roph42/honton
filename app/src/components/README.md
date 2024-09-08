@@ -1,0 +1,1 @@
+# Components folder contains all the React components that are used in the app.
